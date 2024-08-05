@@ -1,0 +1,17 @@
+{
+    "name": "ogchibi95/finwebsite",
+    "description": "Finnish web hosting.",
+    "type": "project",
+    "require": {
+        "bcosca/fatfree": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Jan Kristian Valgijainen",
+            "email": "54046100+ogchibi95@users.noreply.github.com",
+            "homepage": "https://www.jkvalgij.site",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev"
+}
